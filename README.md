@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'm Kiran Kumar R</h1>
 <h3 align="center">Cyber Security || Cloud Computing || Quantum Computing || Space Researcher ||</h3>
 
-<img align = "right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-<img align = "right" alt="coding" width="400" src="https://github.com/kiran4035/kiran4035/blob/main/1.gif">
+<img align = "right" alt="coding" width="400" lenght = "200" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align = "right" alt="coding" width="400" length= "200" src="https://github.com/kiran4035/kiran4035/blob/main/1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiran4035&label=Profile%20views&color=0e75b6&style=flat" alt="kiran4035" /> </p>
 
